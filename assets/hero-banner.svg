@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" font-family="Noto Sans CJK SC, sans-serif">
+  <rect width="960" height="260" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="960" height="8" fill="#B23A2E"/>
+  <text x="480" y="92" font-size="46" font-weight="bold" fill="#1F1B16" text-anchor="middle">Awesome Python · 中文版</text>
+  <text x="480" y="140" font-size="20" fill="#1F1B16" text-anchor="middle">Python 生态导航 · 74 大分类 + 509 个精选库与资源</text>
+  <g font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+    <rect x="100" y="176" width="180" height="48" rx="24" fill="#B23A2E"/><text x="190" y="206">★ 325,328</text>
+    <rect x="300" y="176" width="180" height="48" rx="24" fill="#B23A2E"/><text x="390" y="206">74 分类</text>
+    <rect x="500" y="176" width="180" height="48" rx="24" fill="#B23A2E"/><text x="590" y="206">14 大组</text>
+    <rect x="700" y="176" width="180" height="48" rx="24" fill="#B23A2E"/><text x="790" y="206">509 精选</text>
+  </g>
+</svg>
