@@ -5,6 +5,7 @@
 # Awesome Python 中文版
 
 > **GitHub 前 10 星标的 Python 生态精选 · 中文导航版**
+>
 > 源自 GitHub 上 **325,000+ ★** 的 [vinta/awesome-python](https://github.com/vinta/awesome-python)，收录 **74 个精选分类、509 个框架 / 库 / 工具 / 资源**，按 14 大组组织，从 AI 智能体、Web 框架到数据库、DevOps、安全全覆盖，是 Python 开发者找库的第一入口。
 
 ![Stars](https://img.shields.io/badge/GitHub%20Stars-325%2C328-B23A2E?style=flat-square)
@@ -14,6 +15,8 @@
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-B23A2E?style=flat-square)
 
 ---
+
+⭐ 如果对你有帮助，点个 Star 支持中文开源
 
 ## 目录
 
@@ -38,6 +41,7 @@
 源项目由 Vinta 创建并持续维护，被公认为「Python 开发者找库的第一入口」。2025 年源项目完成重大改版，将 **509 个精选条目** 重组为 **14 大组 × 74 个分类**：AI & ML（智能体 / 深度学习 / 机器学习）、Web 开发（框架 / API / 服务器）、HTTP 与爬虫、数据库与存储、数据与科学、开发者工具、DevOps、CLI 与 GUI、文本与文档、媒体、Python 语言、工具链、安全、其他——几乎覆盖 Python 生态的每个角落。
 
 **中文版做了什么：**
+
 - 🗂️ 把源仓 **74 个分类** 全量提取为中文索引（[categories-index.md](categories-index.md)），按 14 大组分组，附每类条目数与中文译名；
 - ⚡ 在本 README 给出 14 大组总览表与分类导读；
 - 📖 提炼「三步上手」查找路径与 FAQ，让你快速定位到需要的库。
@@ -110,15 +114,19 @@
 ## 常见问题 FAQ
 
 **Q1：这个列表和 PyPI 有什么区别？**
+
 PyPI 是全部 Python 包的总仓库（含大量低质量包）；Awesome Python 是社区人工精选的高质量列表，每个分类只收录真正好用的框架与库。
 
 **Q2：条目有评价或对比吗？**
+
 源项目条目带一句话描述（作者维护），不做打分；选择时可以结合条目星标与文档质量判断，或用官网搜索筛选。
 
 **Q3：为什么分类体系和网上老版本不一样？**
+
 源项目 2025 年完成了分类体系大改版（从旧版 90 分类重组为 14 大组 × 74 分类）。本中文版以**最新版**为准（2026-10-05 实时抓取）。
 
 **Q4：这个中文版和源项目是什么关系？**
+
 本项目是中文**分类导航与导读**，所有条目与链接都在源项目。分类链接跳转源 README 锚点，版权归源项目及贡献者。
 
 ## 参与贡献
@@ -138,3 +146,15 @@ PyPI 是全部 Python 包的总仓库（含大量低质量包）；Awesome Pytho
 - 本仓库代码与文档：**MIT License**（见 [LICENSE](LICENSE)，Copyright (c) 2026 zieang88888）；
 - 源项目 [vinta/awesome-python](https://github.com/vinta/awesome-python)：**CC BY 4.0**；
 - 第三方声明与完整署名见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
